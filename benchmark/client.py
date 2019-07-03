@@ -1,10 +1,5 @@
 import socket as s
 import cv2
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-import numpy as np
-import time
-from _datetime import  datetime
 import zlib
 
 class Client:
